@@ -1,0 +1,33 @@
+p{
+    color:blueviolet
+}
+a{
+    color:rgb(19, 150, 226)
+}
+h3{
+    color:rgb(93, 212, 172)
+}
+h1{
+    color:rgb(0, 0, 0)
+}
+h2{
+    color:rgb(23, 209, 209)
+}
+h4{
+    color:purple
+}
+.link:hover{
+    color:rgb(179, 130, 7)
+} 
+h5{
+    color:darkorchid
+}
+h6{
+    color:darkmagenta
+}
+h7{
+    color:rgb(247, 12, 247)
+}
+h8{
+    color:red
+}
